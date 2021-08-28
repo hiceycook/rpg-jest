@@ -1,0 +1,22 @@
+{
+  "name": "rpg-jest",
+  "version": "1.0.0",
+  "description": "Role Playing Game in the command line using Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiceycook/rpg-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiceycook/rpg-jest/issues"
+  },
+  "homepage": "https://github.com/hiceycook/rpg-jest#readme",
+  "dependencies": {
+    "jest": "^27.1.0"
+  }
+}
